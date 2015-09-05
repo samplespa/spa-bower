@@ -1,0 +1,13 @@
+{
+  "name": "spa-bower",
+  "version": "0.0.1",
+  "description": "spa-bower",
+  "main": "spa.js",
+  "keywords": [
+    "spa"
+  ],
+  "authors": [
+    "jiju k jose"
+  ],
+  "license": "MIT"
+}
